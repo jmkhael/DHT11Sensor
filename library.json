@@ -1,0 +1,14 @@
+{
+  "name": "DHT11Sensor",
+  "keywords": "sensor, rf",
+  "description": "DHT 11 Sensor - mySensor",
+  "include": "libraries/DHT11Sensor",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/DHT11Sensor/Arduino.git"
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
